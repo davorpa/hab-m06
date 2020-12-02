@@ -1,7 +1,0 @@
-total 16
-drwxr-xr-x  6 berto  staff  192 Dec  2 19:54 .
-drwxr-xr-x  3 berto  staff   96 Dec  2 18:51 ..
--rw-r--r--  1 berto  staff   36 Dec  2 19:42 copia-de-fichero.txt
-drwxr-xr-x  2 berto  staff   64 Dec  2 19:52 descargas
--rw-r--r--  1 berto  staff   35 Dec  2 18:52 fichero.txt
--rw-r--r--  1 berto  staff    0 Dec  2 19:55 listado.txt
