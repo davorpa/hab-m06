@@ -1,0 +1,15 @@
+{
+  "name": "dia-3",
+  "version": "1.1.0",
+  "description": "Descripción",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
