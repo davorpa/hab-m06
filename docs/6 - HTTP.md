@@ -9,7 +9,7 @@
 
 Internet es una red masiva de ordenadores interconectados que intercambian datos siguiendo el protocolo TCP/IP.
 
-Cada ordenador conectado está conectado a la red mediante un dispositivo de red que envía información dividida en pequeños paquetes de datos mediante impulsos eléctricos que viajan siguiendo un camino principalmente a través de cables y routers para llegan ao otros dispositivos de red donde son procesados.
+Cada ordenador que forma parte de internet está conectado a la red mediante un dispositivo de red que envía información dividida en pequeños paquetes de datos mediante impulsos eléctricos que viajan siguiendo un camino principalmente a través de cables y routers para llegan ao otros dispositivos de red donde son procesados.
 
 El protocolo TCP/IP establece una serie de reglas para la transmisión de eses paquetes de datos. La parte IP establece como se divide la información múltiples paquetes y el destino de cada uno de ellos y el protocolo TCP se encarga de hacer las comprobaciones necesarias para saber que la transmisión se realizó correctamente.
 
