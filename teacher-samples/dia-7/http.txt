@@ -1,0 +1,35 @@
+URL:
+https://videos.hackaboss.com:443/static/img/logo.svg
+                            ---- <- no hay que ponerla
+- https:// - Protocolo HTTP encriptado
+- videos.hackaboss.com - Host
+- :443 - Puerto
+- /static/img/logo.svg - Ruta
+
+
+Petición HTTP
+
+GET /static/img/logo.svg HTTP/1.1
+Host: videos.hackaboss.com
+Accept-Language: es
+Connection: Keep-alive
+
+- GET: método
+- /static/img/logo.svg: ruta
+- HTTP/1.1: protocolo
+- Host: establece el nombre de dominio del servidor
+- Accept-Language: le dice al servidor en que idioma quiere la respuesta
+- Connection: información sobre la conexión
+
+Respuesta HTTP
+
+HTTP/1.1 200 OK
+Date: Thu, 10 Dec 2020 18:54:00 GMT
+Server: nginx
+Content-Length: 9000
+Content-type: image/svg+xml
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0"...
+
+
+snap install postman
