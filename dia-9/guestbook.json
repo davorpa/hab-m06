@@ -1,17 +1,1 @@
-[
-  {
-    "message": "muy bonita web",
-    "author": "berto",
-    "id": "18e41323-6296-437f-a0dc-4c0dfa55eefe"
-  },
-  {
-    "message": "Lorem ipsum",
-    "author": "Lula",
-    "id": "e0145dde-1317-4a74-9931-80bcffd433ce"
-  },
-  {
-    "message": "El postman es un programa para hacer peticiones",
-    "author": "Manuel",
-    "id": "97a95684-fe01-4bd4-989c-1abd1865838b"
-  }
-]
+[{"message":"Ola amigas de JSB01RT","author":"Berto","id":"8a1e98e1-c1a9-46a7-bc76-fe9048b05005"},{"message":"Nuevo mensaje de saludo","author":"Fernando","id":"15484ded-7057-447f-af0a-bbfed6a162f5"},{"message":"muy bonita web","author":"berto","id":"18e41323-6296-437f-a0dc-4c0dfa55eefe"},{"message":"Lorem ipsum","author":"Lula","id":"e0145dde-1317-4a74-9931-80bcffd433ce"},{"message":"El postman es un programa para hacer peticiones","author":"Manuel","id":"97a95684-fe01-4bd4-989c-1abd1865838b"}]
