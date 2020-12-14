@@ -11,6 +11,7 @@ const html = ({ title, content }) => {
 </head>
 <body>
   <header>
+    <img src="/img/cabecera.jpg" alt="Imagen decorativa" />
     <h1>${title}</h1>
     <nav>
       <ul>
