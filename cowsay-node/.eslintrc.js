@@ -28,5 +28,16 @@ module.exports = {
   rules: {
     // Integrate ESLint+Prettier
     "prettier/prettier": "error",
+    //
+    // ESLint custom rules to ensure cleancode qualitity
+    //
+    "no-unused-expressions": [
+      "error",
+      {
+        allowShortCircuit: true,
+        allowTernary: true,
+        allowTaggedTemplates: true,
+      },
+    ],
   },
 };

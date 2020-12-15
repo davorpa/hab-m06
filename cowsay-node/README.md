@@ -36,19 +36,23 @@
 
 ## Initialization
 
-Por la terminal ejecutamos en orden los siguientes comandos:
+1. Por la terminal ejecutamos en orden los siguientes comandos:
+    ```bash
+    # Instalamos los modulos de node
+    > npm install
 
-```bash
-# Instalamos los modulos de node
-> npm install
-
-```
+    ```
+2. Copia el fichero `.env.example` y renombralo a `.env` rellenando las propiedades de entorno definidas en el mismo con los valores deseados.
 
 ## Available commands
 
 1. Arranca la aplicación:
     ```bash
     > npm start
+    ```
+    O en modo debug
+    ```bash
+    > npm run start:debug
     ```
 2. Arranca la aplicación en modo desarrollo:
     ```bash

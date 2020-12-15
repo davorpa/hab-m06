@@ -8,7 +8,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start:debug": "npm start -- --debug",
+    "dev": "nodemon index.js -- --debug"
   },
   "repository": {
     "type": "git",
@@ -21,7 +22,9 @@
   },
   "homepage": "https://github.com/davorpa/hab-m06/cowsay-node#readme",
   "dependencies": {
-    "cowsay": "^1.4.0"
+    "cowsay": "^1.4.0",
+    "debug": "^4.3.1",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "eslint": "^7.15.0",
