@@ -13,12 +13,12 @@
 **NodeJS 12.x**. https://nodejs.org
 
 1. se puede instalar globalmente mediante:
-```bash
+```shell
 > sudo apt install nodejs
 ```
 2. o a través de sus paquetes de NodeSource:
   https://github.com/nodesource/distributions
-```bash
+```shell
 # Instalamos el software previo
 > sudo apt install curl
 
@@ -37,36 +37,35 @@
 ## Initialization
 
 1. Por la terminal ejecutamos en orden los siguientes comandos:
-    ```bash
-    # Instalamos los modulos de node
+    ```shell
+    # Instalamos los módulos de node
     > npm install
-
     ```
-2. Copia el fichero `.env.example` y renombralo a `.env` rellenando las propiedades de entorno definidas en el mismo con los valores deseados.
+2. Copia el fichero `.env.example` y renómbralo a `.env` rellenando las propiedades de entorno definidas en el mismo con los valores deseados.
 
 ## Available commands
 
 1. Arranca la aplicación:
-    ```bash
+    ```shell
     > npm start
     ```
     O en modo debug
-    ```bash
+    ```shell
     > npm run start:debug
     ```
-2. Arranca la aplicación en modo desarrollo:
-    ```bash
+2. Arranca la aplicación en modo desarrollo (con soporte para refresco de código en caliente):
+    ```shell
     > npm run dev
     ```
 3. Realiza los test unitarios:
-    ```bash
+    ```shell
     > npm test
     ```
 4. Comprueba la calidad de código (`linting`):
-    ```bash
+    ```shell
     > npm lint
     ```
 5. Comprueba y arregla (si es posible) los errores reportados por el `linter`:
-    ```bash
+    ```shell
     > npm lint:fix
     ```
