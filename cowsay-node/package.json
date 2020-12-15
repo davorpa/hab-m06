@@ -1,0 +1,35 @@
+{
+  "name": "cowsay-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davorpa/hab-m06.git"
+  },
+  "author": "davorpatech",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/davorpa/hab-m06/issues"
+  },
+  "homepage": "https://github.com/davorpa/hab-m06/cowsay-node#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.0",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.2.1"
+  }
+}
