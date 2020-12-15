@@ -39,5 +39,11 @@ module.exports = {
         allowTaggedTemplates: true,
       },
     ],
+    "no-plusplus": [
+      "error",
+      {
+        allowForLoopAfterthoughts: true,
+      },
+    ],
   },
 };
