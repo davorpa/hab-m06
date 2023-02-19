@@ -10,17 +10,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "prettier": "^2.2.1"
+    "eslint": "^7.32.0",
+    "prettier": "^2.8.4"
   },
   "dependencies": {
-    "chalk": "^4.1.0",
-    "date-fns": "^2.16.1",
+    "chalk": "^4.1.2",
+    "date-fns": "^2.29.3",
     "exif": "^0.6.0",
     "exif-parser": "^0.1.12",
     "lodash": "^4.17.21",
-    "sharp": "^0.26.3",
-    "sqlite": "^4.0.18",
-    "sqlite3": "^5.0.0"
+    "sharp": "^0.31.3",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4"
   }
 }

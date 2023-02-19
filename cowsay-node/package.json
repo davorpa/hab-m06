@@ -22,17 +22,17 @@
   },
   "homepage": "https://github.com/davorpa/hab-m06/cowsay-node#readme",
   "dependencies": {
-    "cowsay": "^1.4.0",
-    "debug": "^4.3.1",
-    "dotenv": "^8.2.0"
+    "cowsay": "^1.5.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-prettier": "^3.3.0",
-    "nodemon": "^2.0.6",
-    "prettier": "^2.2.1"
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.4"
   }
 }

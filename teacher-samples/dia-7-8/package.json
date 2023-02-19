@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "nodemon": "^2.0.6",
-    "prettier": "^2.2.1"
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.4"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "mime-types": "^2.1.27"
+    "dotenv": "^8.6.0",
+    "mime-types": "^2.1.35"
   }
 }
